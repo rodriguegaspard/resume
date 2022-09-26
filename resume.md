@@ -1,3 +1,12 @@
+---
+papersize: a4
+linestretch: 1.5
+fontsize: 10pt
+---
+
+
+\vfill
+
 # Rodrigue GASPARD
 ## Born 28th of October, 1996
 
@@ -35,9 +44,18 @@ University of Angers - Bachelor of Computer Science (09/2016 - 06/2020)
 * UNIX
 * Scripting with Python, Perl and Bash
 
+# Skills
+
+* Operating system : Windows, GNU/Linux
+* Software : GNU Core utilities, plantuml, pandoc, ffmpeg, gimp, git, Office suite
+
 # Hobbies
 
 * Astronomy, aeronautics and astronautics
 * Litterature
 * Cinema
 * Natation
+
+# Contact info
+
+\vfill
