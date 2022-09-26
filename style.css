@@ -1,37 +1,58 @@
+
 body {
-  line-height: 15px;
+  margin: 10px;
+  line-height: 20px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 
 h2 {
-  font-size: 15px;
+  font-size: 18px;
 }
 
 
 p, ul {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .resumeTitle {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
+  justify-content: space-between;
   text-align: center;
+  align-items: center;
   font-size: 20px;
 }
 
 .profilePicture {
   color: transparent;
+  height: 200px;
+  width: 200px;
+}
+
+.image {
+  object-fit: contain;
+  width: 110%;
 }
 
 .links {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.linkElement {
+  height: 100px;
+}
+
+.linkImage {
+  object-fit: contain;
+  width: 25%;
 }
 
