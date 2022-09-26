@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pandoc --from markdown+emoji --pdf-engine=wkhtmltopdf --metadata="Rodrigue GASPARD - Junior Software Developer" -V mainfont="Symbola" -o rodrigue_gaspard_resume.pdf resume.md && zathura rodrigue_gaspard_resume.pdf
+
