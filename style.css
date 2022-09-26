@@ -1,19 +1,29 @@
+@font-face {
+  font-family: QuicksandBold;
+  src: url(Quicksand-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Quicksand;
+  src: url(Quicksand-Regular.ttf);
+}
 
 body {
   margin: 10px;
   line-height: 20px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: Quicksand;
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 30px;
+  font-family: QuicksandBold;
 }
 
 
 h2 {
-  font-size: 18px;
+  font-size: 22px;
+  font-family: QuicksandBold;
 }
-
 
 p, ul {
   font-size: 14px;
@@ -37,6 +47,8 @@ p, ul {
 .image {
   object-fit: contain;
   width: 110%;
+  border-radius: 4px;
+  border: 1px solid ghostwhite;
 }
 
 .links {
