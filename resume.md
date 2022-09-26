@@ -7,6 +7,7 @@ margin-right: 12px
 margin-left: 12px
 ---
 
+
 ::::resumeTitle
 
 :::{}
@@ -29,7 +30,14 @@ margin-left: 12px
 
 ::::
 
+## Personal information
+
+__Date/Place of birth__ : 28th of October, 1996 - Château-Gontier, FRANCE
+
+__Driving license__ : Full
+
 ## About myself
+
 After obtaining a __bachelor's degree in computer science__ at the University of Angers in France, I worked as a __software developer__ in an art school for a year and a half. I'm currently looking for a __Master's degree and an internship in Southeast Asia in software development__ in order to learn new skills and to practice English at a professional level.
 I'm very passionate about computer science, as it provide me with skills and tools that are very useful in my daily activities, and also it gives me interesting challenges that motivates me to push myself forward. I mainly use Arch Linux as my operating system.
 
