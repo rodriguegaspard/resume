@@ -1,7 +1,11 @@
 ---
 papersize: a4
-linestretch: 1.5
+linestretch: 1
 fontsize: 10pt
+geometry:
+- top=10mm
+- left=20mm
+- heightrounded
 ---
 
 
