@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pandoc --from markdown+emoji+native_divs+fenced_divs --pdf-engine=prince --metadata title="" --css=style.css -o rodrigue_gaspard_resume.pdf resume.md && zathura rodrigue_gaspard_resume.pdf
+pandoc --from markdown+emoji+native_divs+fenced_divs --pdf-engine=wkhtmltopdf --metadata title="" --css=style.css -o rodrigue_gaspard_resume.pdf resume.md && zathura rodrigue_gaspard_resume.pdf
 
