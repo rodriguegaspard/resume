@@ -1,30 +1,52 @@
 ---
 papersize: a4
-linestretch: 1 
-fontsize: 10pt
-geometry:
-- top=10mm
-- left=20mm
-- bottom=10mm
-- heightrounded
+margin-top: 15px
+margin-bottom: 15px
+margin-left: 15px
+margin-right: 15px
 colorlinks: true
 emoji: true
 ---
 
-----------------  -------------------------  ---------------------------
-Rodrigue GASPARD  Junior Software Developer  ![](profile.jpg){width=20%}
-----------------  -------------------------  ---------------------------
+::::resumeTitle
 
-Born 28th of October, 1996
+:::{ .resumeName }
 
-:envelope: - [rodriguegaspard@gmail.com](mailto:rodriguegaspard@gmail.com)
+## Rodrigue GASPARD
 
-:bust_in_silhouette: - [\underline{LinkedIn}](https://www.linkedin.com/in/rodriguegaspard/)
+:::
 
-:desktop_computer: - [\underline{GitHub}](https://www.linkedin.com/in/rodriguegaspard/)
+:::{}
+
+## Junior Software Developer
+
+:::
+
+:::{.profilePicture}
+
+![Profile picture](profile.jpg){ width=100% }
+
+:::
+
+::::
 
 
-----
+::::links
+
+:::{}
+[rodriguegaspard@gmail.com](mailto:rodriguegaspard@gmail.com)
+:::
+
+:::{}
+[LinkedIn](https://www.linkedin.com/in/rodriguegaspard/)
+:::
+
+:::{}
+[GitHub](https://www.linkedin.com/in/rodriguegaspard/)
+:::
+
+::::
+
 
 # About myself
 After obtaining a __bachelor's degree in computer science__ at the University of Angers in France, I worked as a __software developer__ in an art school for a year and a half. I'm currently looking for a __Master's degree and an internship in Southeast Asia in software development__ in order to learn new skills and to practice English at a professional level.
